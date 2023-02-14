@@ -1,6 +1,4 @@
 #include <Arduino.h>
-#include <PubSubClient.h>  
-#include "WiFi.h"
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
